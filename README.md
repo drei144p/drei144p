@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Andrei</h1>
-<h3 align="center">A passionate student and full-stack developer from the Philippines.</h3>
+<h3 align="center">A student and a full-stack developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=drei144p&label=Profile%20views&color=0e75b6&style=flat" alt="drei144p" /> </p>
 
