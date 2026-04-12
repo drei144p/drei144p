@@ -29,19 +29,19 @@ $ status --live
 
 <!-- AGE_START -->
 ```
-age          →  --
+age          →  21 yrs old
 ```
 <!-- AGE_END -->
 
 <!-- BDAY_START -->
 ```
-birthday in  →  --  ·  july 1
+birthday in  →  79 days  ·  july 1
 ```
 <!-- BDAY_END -->
 
 <!-- DAYS_CODING_START -->
 ```
-days coding  →  ----
+days coding  →  2,293 days  //  started modding gta:sa
 ```
 <!-- DAYS_CODING_END -->
 
