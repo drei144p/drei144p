@@ -1,9 +1,9 @@
  <div align="center">
 <br>
 
-### andrei estores
+### Andrei Estores
 
-`open to work` &nbsp;·&nbsp; `ph`
+`Open To Work` &nbsp;·&nbsp; `PH`
 
 <br>
 </div>
@@ -16,7 +16,7 @@ $ cat about.txt
 
 ```
 role     →  looking for work
-project  →  GRIDLOCK — browser-based arcade game
+current project  →  GRIDLOCK — browser-based arcade game
 stack    →  HTML  CSS  JS  Python  Java  C++  Arduino / embedded
 origin   →  2020  // first mod was GTA:SA. never stopped.
 ```
