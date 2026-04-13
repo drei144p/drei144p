@@ -27,23 +27,17 @@ origin   →  2020  // first mod was GTA:SA. never stopped.
 $ status --live
 ```
 
-<!-- AGE_START -->
 ```
 age          →  --
 ```
-<!-- AGE_END -->
 
-<!-- BDAY_START -->
 ```
 birthday in  →  --  ·  july 1
 ```
-<!-- BDAY_END -->
 
-<!-- DAYS_CODING_START -->
 ```
 days coding  →  ----
 ```
-<!-- DAYS_CODING_END -->
 
 ---
 
