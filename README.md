@@ -28,15 +28,15 @@ $ status --live
 ```
 
 ```
-age          →  --
+age          →  21 yrs old
 ```
 
 ```
-birthday in  →  --  ·  july 1
+birthday in  →  79 days  ·  july 1
 ```
 
 ```
-days coding  →  ----
+days coding  →  2,293 days  //  started modding gta:sa
 ```
 
 ---
